@@ -1,0 +1,10 @@
+{
+  "name": "Shūkatsu OS｜就職活動管理",
+  "short_name": "Shūkatsu OS",
+  "lang": "ja",
+  "start_url": "./#/dashboard",
+  "display": "standalone",
+  "background_color": "#f5f8f7",
+  "theme_color": "#176b61",
+  "description": "日本の就職活動を一元管理するローカルファーストの応募管理ツールです。"
+}
